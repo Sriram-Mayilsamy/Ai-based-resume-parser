@@ -1,0 +1,308 @@
+[
+    {
+        "name": "Madison Taylor",
+        "email": null,
+        "phone": "+1-(234)-555-1234",
+        "expected_role": "software engineer",
+        "relevancy_score": "7",
+        "resume_scores": {
+            "relevance_to_role": "10",
+            "skill_coverage": "5",
+            "experience_alignment": "0",
+            "project_relevance": "0",
+            "industry_insights": "0",
+            "job_specific_achievements": "0",
+            "education_certifications": "10",
+            "overall_score": "7"
+        },
+        "id": 16
+    },
+    {
+        "name": "Yuvaraj S",
+        "email": "yuviy2006@gmail.com",
+        "phone": "7990538230",
+        "expected_role": "SoftwareDeveloper",
+        "relevancy_score": 70,
+        "resume_scores": {
+            "relevance_to_role": 75,
+            "skill_coverage": 80,
+            "experience_alignment": 60,
+            "project_relevance": 70,
+            "industry_insights": 50,
+            "job_specific_achievements": 85,
+            "education_certifications": 60,
+            "overall_score": 70
+        },
+        "id": 17
+    },
+    {
+        "name": "HARINEE M D",
+        "email": "Mdhamothara4@gmail.com",
+        "phone": "9384298954",
+        "expected_role": "SoftwareDeveloper",
+        "relevancy_score": 68,
+        "resume_scores": {
+            "relevance_to_role": 70,
+            "skill_coverage": 65,
+            "experience_alignment": 75,
+            "project_relevance": 80,
+            "industry_insights": 50,
+            "job_specific_achievements": 70,
+            "education_certifications": 60,
+            "overall_score": 68
+        },
+        "id": 19
+    },
+    {
+        "name": "Yuvaraj S",
+        "email": "yuviy2006@gmail.com",
+        "phone": "7990538230",
+        "expected_role": "chef",
+        "relevancy_score": "2.86",
+        "resume_scores": {
+            "relevance_to_role": "5",
+            "skill_coverage": "10",
+            "experience_alignment": "0",
+            "project_relevance": "0",
+            "industry_insights": "0",
+            "job_specific_achievements": "0",
+            "education_certifications": "0",
+            "overall_score": "2.86"
+        },
+        "id": 20
+    },
+    {
+        "name": "MASON THOMAS",
+        "email": null,
+        "phone": "+1-(234)-555-1234",
+        "expected_role": "SoftwareDeveloper",
+        "relevancy_score": "14.29",
+        "resume_scores": {
+            "relevance_to_role": "10",
+            "skill_coverage": "5",
+            "experience_alignment": "10",
+            "project_relevance": "0",
+            "industry_insights": "15",
+            "job_specific_achievements": "20",
+            "education_certifications": "20",
+            "overall_score": "14.29"
+        },
+        "id": 8
+    },
+    {
+        "name": "Dharun A",
+        "email": "dharun2612@gmail.com",
+        "phone": "8778473965",
+        "expected_role": "SoftwareDeveloper",
+        "relevancy_score": "7",
+        "resume_scores": {
+            "relevance_to_role": "10",
+            "skill_coverage": "15",
+            "experience_alignment": "5",
+            "project_relevance": "0",
+            "industry_insights": "0",
+            "job_specific_achievements": "0",
+            "education_certifications": "10",
+            "overall_score": "7"
+        },
+        "id": 9
+    },
+    {
+        "name": "VIGNESH R",
+        "email": "vigneshramamoorthi29@gmail.com",
+        "phone": "+91 9384989635",
+        "expected_role": "SoftwareDeveloper",
+        "relevancy_score": "7",
+        "resume_scores": {
+            "relevance_to_role": "10",
+            "skill_coverage": "5",
+            "experience_alignment": "10",
+            "project_relevance": "0",
+            "industry_insights": "0",
+            "job_specific_achievements": "0",
+            "education_certifications": "15",
+            "overall_score": "7"
+        },
+        "id": 10
+    },
+    {
+        "name": "Swetha E",
+        "email": "swethaeswaran04@gmail.com",
+        "phone": "6382295595",
+        "expected_role": "SoftwareDeveloper",
+        "relevancy_score": "42",
+        "resume_scores": {
+            "relevance_to_role": "60",
+            "skill_coverage": "50",
+            "experience_alignment": "20",
+            "project_relevance": "70",
+            "industry_insights": "30",
+            "job_specific_achievements": "10",
+            "education_certifications": "70",
+            "overall_score": "42"
+        },
+        "id": 11
+    },
+    {
+        "name": "Sri Hari P",
+        "email": "sriharipackirisamy@gmail.com",
+        "phone": "6282278340",
+        "expected_role": "SoftwareDeveloper",
+        "relevancy_score": 60,
+        "resume_scores": {
+            "relevance_to_role": 65,
+            "skill_coverage": 70,
+            "experience_alignment": 55,
+            "project_relevance": 60,
+            "industry_insights": 40,
+            "job_specific_achievements": 45,
+            "education_certifications": 75,
+            "overall_score": 60
+        },
+        "id": 12
+    },
+    {
+        "name": "SANKAVI S",
+        "email": "sankavis02@gmail.com",
+        "phone": "9361341319",
+        "expected_role": "SoftwareDeveloper",
+        "relevancy_score": 55,
+        "resume_scores": {
+            "relevance_to_role": 60,
+            "skill_coverage": 65,
+            "experience_alignment": 50,
+            "project_relevance": 60,
+            "industry_insights": 40,
+            "job_specific_achievements": 30,
+            "education_certifications": 70,
+            "overall_score": 55
+        },
+        "id": 13
+    },
+    {
+        "name": "Yuvaraj S",
+        "email": "yuviy2006@gmail.com",
+        "phone": "7990538230",
+        "expected_role": "Chef",
+        "relevancy_score": "3",
+        "resume_scores": {
+            "relevance_to_role": "10",
+            "skill_coverage": "5",
+            "experience_alignment": "0",
+            "project_relevance": "0",
+            "industry_insights": "0",
+            "job_specific_achievements": "0",
+            "education_certifications": "0",
+            "overall_score": "3"
+        },
+        "id": 14
+    },
+    {
+        "name": "Yuvaraj S",
+        "email": "yuviy2006@gmail.com",
+        "phone": "7990538230",
+        "expected_role": "salesmanager",
+        "relevancy_score": "13",
+        "resume_scores": {
+            "relevance_to_role": "10",
+            "skill_coverage": "20",
+            "experience_alignment": "5",
+            "project_relevance": "10",
+            "industry_insights": "5",
+            "job_specific_achievements": "20",
+            "education_certifications": "10",
+            "overall_score": "13"
+        },
+        "id": 12
+    },
+    {
+        "name": "Yuvaraj S",
+        "email": "yuviy2006@gmail.com",
+        "phone": "7990538230",
+        "expected_role": "devops",
+        "relevancy_score": 28,
+        "resume_scores": {
+            "relevance_to_role": 25,
+            "skill_coverage": 40,
+            "experience_alignment": 15,
+            "project_relevance": 20,
+            "industry_insights": 10,
+            "job_specific_achievements": 30,
+            "education_certifications": 60,
+            "overall_score": 28
+        },
+        "id": 13
+    },
+    {
+        "name": "Yuvaraj S",
+        "email": "yuviy2006@gmail.com",
+        "phone": "7990538230",
+        "expected_role": "salesengineer",
+        "relevancy_score": 45,
+        "resume_scores": {
+            "relevance_to_role": 40,
+            "skill_coverage": 60,
+            "experience_alignment": 20,
+            "project_relevance": 30,
+            "industry_insights": 10,
+            "job_specific_achievements": 70,
+            "education_certifications": 80,
+            "overall_score": 45
+        },
+        "id": 14
+    },
+    {
+        "name": "Yuvaraj S",
+        "email": "yuviy2006@gmail.com",
+        "phone": "7990538230",
+        "expected_role": "sales manager",
+        "relevancy_score": "28",
+        "resume_scores": {
+            "relevance_to_role": "20",
+            "skill_coverage": "30",
+            "experience_alignment": "10",
+            "project_relevance": "15",
+            "industry_insights": "5",
+            "job_specific_achievements": "25",
+            "education_certifications": "75",
+            "overall_score": "28"
+        },
+        "id": 15
+    },
+    {
+        "name": "Yuvaraj S",
+        "email": "yuviy2006@gmail.com",
+        "phone": "7990538230",
+        "expected_role": "sales engineer",
+        "relevancy_score": "46",
+        "resume_scores": {
+            "relevance_to_role": "45",
+            "skill_coverage": "60",
+            "experience_alignment": "20",
+            "project_relevance": "30",
+            "industry_insights": "10",
+            "job_specific_achievements": "70",
+            "education_certifications": "80",
+            "overall_score": "46"
+        },
+        "id": 16
+    },
+    {
+        "name": "Yuvaraj S",
+        "email": "yuviy2006@gmail.com",
+        "phone": "7990538230",
+        "expected_role": "FrontEndDeveloper",
+        "relevancy_score": 63,
+        "resume_scores": {
+            "relevance_to_role": 70,
+            "skill_coverage": 75,
+            "experience_alignment": 60,
+            "project_relevance": 65,
+            "industry_insights": 50,
+            "job_specific_achievements": 40,
+            "education_certifications": 70,
+            "overall_score": 63
+        },
+        "id": 17
+    }
+]
