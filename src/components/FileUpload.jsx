@@ -75,7 +75,7 @@ const FileUpload = ({ setResults }) => {
     formData.append("role", role)
 
     try {
-      const response = await axios.post("http://localhost:8000/upload", formData)
+      const response = await axios.post("https://ai-based-resume-parser.onrender.com/upload", formData)
       setResults(response.data)
     } catch (error) {
       console.error("Error uploading file:", error)
